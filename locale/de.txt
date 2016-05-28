@@ -1,0 +1,22 @@
+You may not enter @1=Du darfst @1 nicht betreten
+You may not right-click nodes inside @1=Du darfst in @1 keine Blöcke aktivieren
+You may not change inventories inside @1=Du darfst in @1 keine Inventare verändern
+You may not build inside @1=Du darfst in @1 nicht bauen
+You may not punch nodes inside @1=Du darfst in @1 keine Blöcke schlagen
+PvP (Player vs. Player) is not allowed inside @1=PvP (Player vs. Player) ist in @1 nicht erlaubt
+Can bypass any restrictions set up by any areas integrated in tyrant.=Darf jegliche Beschränkungen durch tyrant-Gebiete umgehen.
+List all areas integrated into tyrant=Liste alle durch tyrant verwalteten Gebiete auf.
+List areas at your position=Liste alle Gebiete an deiner Position auf.
+All Areas=Alle Gebiete
+Areas at your position=Gebiete an deiner Position
+Areas at @1=Gebiete an @1
+Here is:=Hier ist:
+
+#the following are the letters that are shown in the hud to notify players about their permissions.
+E=Z
+A=A
+I=I
+B=B
+
+Choose area by double-clicking=Wähle ein Gebiet durch Doppelklick
+
