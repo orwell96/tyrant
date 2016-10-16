@@ -285,7 +285,7 @@ if minetest.setting_getbool("enable_pvp") then
 				return false
 			else
 				--PvP here. check areas
-				local allow, err=tyrant.check_action_allowed(pos, pname, "pvp")
+				local allow, err=tyrant.check_action_allowed(player:getpos(), hitter:get_player_name(), "pvp")
 				if not allow then
 					hitter:set_hp(player:get_hp()-1)
 				end
